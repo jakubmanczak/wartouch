@@ -1,0 +1,2 @@
+#!/bin/bash
+wartouch "$1"
