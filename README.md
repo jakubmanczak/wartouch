@@ -6,12 +6,12 @@ It's touch. It's touch but with deleting the file you want to touch to make sure
 
 
 ## How To
-copy the `./wartouch` and `./wtouch` files to your /usr/bin directory like so:
-
-`cp ./wartouch /usr/bin/wartouch`
-`cp ./wtouch /usr/bin/wtouch`
-
-make sure it's marked as executable
+make sure the files are marked as executable
 
 `chmod +x ./wartouch`
 `chmod +x ./wtouch`
+
+then copy the `./wartouch` and `./wtouch` files to your /usr/bin directory like so:
+
+`cp ./wartouch /usr/bin/wartouch`
+`cp ./wtouch /usr/bin/wtouch`
